@@ -1,5 +1,5 @@
 .result {
-  font-family: 'Roboto', monospace;
+  font-family: "Roboto", monospace;
   background-color: black;
   font-size: 50px;
   color: white;
@@ -15,20 +15,22 @@
 }
 
 button {
-  font-family: 'Roboto', monospace;
+  font-family: "Roboto", monospace;
   font-size: 40px;
   height: 100px;
   width: 100px;
   cursor: pointer;
 }
 
-.symbol, .number {
+.symbol,
+.number {
   color: #000000;
   background-color: #d8d9db;
 }
 
-.symbol:hover, .number:hover {
-  background-color: #F0F0F0	;
+.symbol:hover,
+.number:hover {
+  background-color: #f0f0f0;
 }
 
 .sign {

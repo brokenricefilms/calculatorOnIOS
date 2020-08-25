@@ -16,12 +16,12 @@ https://btholt.github.io/intro-to-web-dev-v2/js-project/
 
 ## To-do list
 
-* [x] create github page
+- [x] create github page
 
-* [x] create file
+- [x] create file
 
-* [x] html/css (look like image)
+- [x] html/css (look like image)
 
-* [ ] javacript
+- [ ] javacript (hack)
 
-* [ ] check every done
+- [ ] check every done
