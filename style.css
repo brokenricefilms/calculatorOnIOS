@@ -1,5 +1,20 @@
+.result {
+  font-family: 'Roboto', monospace;
+  background-color: black;
+  height: 100px;
+  width: 400px;
+}
+
 .calRow {
   display: flex;
+}
+
+button {
+  font-family: 'Roboto', monospace;
+  font-size: 40px;
+  height: 100px;
+  width: 100px;
+  cursor: pointer;
 }
 
 .symbol, .number {
@@ -13,3 +28,10 @@
   border-width: 0.5px;
 }
 
+#zero {
+  width: 300px;
+}
+
+#C {
+  width: 200px;
+}
