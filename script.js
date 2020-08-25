@@ -1,8 +1,10 @@
-const input = document.querySelector('.number');
+const input = document.querySelector('button');
+document.body.appendChild(button);
 const paragraph = document.querySelector('.output');
 
-input.addEventListener("click",
-    function() {
-    paragraph.innerText  = input.target.innerText;
+input.addEventListener('click',
+    function(input) {
+    paragraph.innerText  = input.innerText;
 }
 );
+
