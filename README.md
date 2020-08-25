@@ -2,11 +2,11 @@
 
 ## To-do list
 
-* [ ] create github page
+* [x] create github page
 
-* [ ] create file
+* [x] create file
 
-* [ ] html/css (look like image)
+* [x] html/css (look like image)
 
 * [ ] javacript
 
