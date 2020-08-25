@@ -3,6 +3,13 @@
 }
 
 .symbol, .number {
+  color: #000000;
   background-color: #d8d9db;
-  padding: 0;
 }
+
+.sign {
+  color: #ffffff;
+  background-color: #df974c;
+  border-width: 0.5px;
+}
+
