@@ -7,4 +7,3 @@ input.addEventListener('click',
     paragraph.innerText  = input.innerText;
 }
 );
-
