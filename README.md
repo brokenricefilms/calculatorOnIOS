@@ -22,6 +22,6 @@ https://btholt.github.io/intro-to-web-dev-v2/js-project/
 
 - [x] html/css (look like image)
 
-- [ ] javacript (hack)
+- [ ] javacript
 
-- [ ] check every done
+* I have no idea what I am doing
