@@ -24,4 +24,4 @@ https://btholt.github.io/intro-to-web-dev-v2/js-project/
 
 - [ ] javacript
 
-* I have no idea what I am doing
+* I have no idea what I am doing, so Hack it.
