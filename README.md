@@ -4,6 +4,8 @@
 
 The project when I study at frontendmaster
 
+I cheat at Javascript :D :| :(
+
 **My ans**
 
 https://thuanpham2311.github.io/calculatorOnIOS/
