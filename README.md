@@ -14,14 +14,4 @@ https://btholt.github.io/intro-to-web-dev-v2/js-project/
 
 ## Review
 
-## To-do list
-
-- [x] create github page
-
-- [x] create file
-
-- [x] html/css (look like image)
-
-- [ ] javacript
-
-* I have no idea what I am doing, so Hack it.
+<img scr="./img/calculatorOnIOSPreview.png"/>
