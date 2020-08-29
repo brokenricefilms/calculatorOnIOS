@@ -87,9 +87,11 @@ function rerender() {
 }
 
 function init() {
-  document.querySelector(".button-container").addEventListener("click", function(event) {
-    buttonClick(event.target.innerText);
-  });
+  document
+    .querySelector(".button-container")
+    .addEventListener("click", function (event) {
+      buttonClick(event.target.innerText);
+    });
 }
 
 init();
