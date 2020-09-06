@@ -4,8 +4,8 @@ let previousOperator;
 const output = document.querySelector(".output");
 
 function buttonClick(value) {
-    // parseInt => string numbers (eg. "5" "9", "c" is not num)
-                                // to interger
+  // parseInt => string numbers (eg. "5" "9", "c" is not num)
+  // to interger
   if (isNaN(parseInt(value))) {
     handleSymbol(value);
   } else {
