@@ -1,6 +1,6 @@
 # calculatorOnIOS
 
-**All my commit message is BS, don't waste your time read that\***
+**All my commit message is BS, don't waste your time read that**
 
 ## Overview
 
